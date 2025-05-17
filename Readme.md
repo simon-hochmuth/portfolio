@@ -1,66 +1,66 @@
-Bio:
-I’m a data scientist and analytics engineer with a background in strategic consulting and technical delivery. Currently at LMI, I am building predictive models, streamlining financial reporting, and delivering data-driven insights that inform high-level decision-making.
+# Simon Hochmuth – Data Scientist & Analytics Engineer
 
-To start modify/run setup_env.sh.
+I'm a data scientist with a background in technical consulting, analytics engineering, and strategic decision-making. At LMI, I help senior leadership make informed decisions by building predictive models, automating financial reporting, and developing scalable data tools.
 
-Top projects with links:
+---
 
+📍 Visit my website: [simonhochmuth.com](https://simonhochmuth.com)
 
+---
 
+## 🚀 Featured Projects
 
-Website link: simonhochmuth.com
+> Run `setup_env.sh` to install dependencies and activate the environment.
 
-🧠 Languages
+- [NYC 311 Complaint Explorer (Streamlit App)](https://github.com/simon-hochmuth/portfolio/tree/main/src/scripts/NYC_311_API_Project)
+- [Deep Learning: Ship Detection in Satellite Imagery](https://github.com/simon-hochmuth/portfolio/blob/main/Notebooks/Deep_Learning_Ship_Dataset.ipynb)
+- [Credit Account Clustering (Unsupervised ML)](https://github.com/simon-hochmuth/portfolio/blob/main/Notebooks/Credit_card_dataset.ipynb)
+- [Predicting Wine Rankings (Supervised ML)](https://github.com/simon-hochmuth/portfolio/blob/main/Notebooks/Supervised_Learning_Wine.ipynb)
+- [SQL in Python: Transformations & Analysis](https://github.com/simon-hochmuth/portfolio/blob/main/Notebooks/SQL_in_Python.ipynb)
 
-    Python (pandas, scikit-learn, NumPy, TensorFlow, PyTorch, Matplotlib, Seaborn)
+---
 
-    SQL (PostgreSQL, MySQL, BigQuery)
+## 🧠 Languages
 
-    R (ggplot2, dplyr, tidyverse)
+- **Python** – Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn
+- **SQL** – PostgreSQL, MySQL, BigQuery
+- **R** – Tidyverse, ggplot2, dplyr
+- **HTML / CSS / JS / Vue / Next.js / .NET / C#** – for web + dashboard development
+- **C++** – from engineering and aerospace projects
+- **Bash / Shell** – scripting and automation
 
-    HTML/CSS/Vue/JS/NextJS/.NET/C# (basic/intermediate for portfolio/web apps)
+---
 
-    C++  (basic/intermediate from aerospace/engineering background)
+## 🧰 Tools & Frameworks
 
-    Bash/Shell (basic for scripting, automation)
+- Jupyter, VS Code, Colab  
+- Databricks, Spark, Hadoop  
+- Scikit-learn, XGBoost, LightGBM  
+- TensorFlow, Keras, PyTorch  
+- Streamlit, Flask, MongoDB  
+- PostgreSQL, MySQL
 
-    
+---
 
-🧰 Tools & Frameworks
+## 📊 Analytics & Visualization
 
-    Jupyter Notebooks, VS Code, Colab
+- Tableau, Power BI, Streamlit  
+- Plotly, Matplotlib, Seaborn  
+- Grafana, Qlik, IBM Cognos  
+- IBM Watson, IBM Cloud
 
-    Databricks, Apache Spark, Hadoop
+---
 
-    Scikit-learn, XGBoost, LightGBM
+## ☁️ Cloud & DevOps
 
-    TensorFlow, Keras, PyTorch
+- AWS (S3), IBM Cloud, Oracle  
+- GitHub Actions, Netlify  
+- CI/CD practices, app deployment
 
-    Streamlit, Flask, MongoDB
+---
 
-    PostgreSQL, MySQL
+## 🔄 Data Engineering / Pipelines
 
-📊 Analytics & Visualization
-
-    Tableau, Power BI, Streamlit
-
-    Plotly, Grafana, Matplotlib,
-
-    IBM Cognos, IBM Watson, IBM Cloud
-
-    Seaborn, Qlik
-
-☁️ Cloud & DevOps
-
-    AWS (S3) , IBM Cloud, Oracle
-
-    GitHub Actions, CI/CD basics
-
-    Netlify (for personal site deployment)
-
-📦 Data Engineering / Pipelines
-
-    ETL/ELT workflows using Python, SQL, and Spark
-
-    Databricks, dbt,  JSON/XML APIs
-
+- Building ETL/ELT workflows with Python, SQL, and Spark  
+- API integrations (JSON/XML)  
+- Databricks, dbt, and workflow orchestration
