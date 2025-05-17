@@ -6,6 +6,19 @@ I'm a data scientist with a background in technical consulting, analytics engine
 
 📍 Visit my website: [simonhochmuth.com](https://simonhochmuth.com)  
 _(Built with Vue.js, deployed via Netlify)_
+---
+
+## 🔁 Local Setup
+
+To run this project locally:
+
+1. Clone the repository  
+2. Ensure `requirements.txt` is present in the root directory  
+3. Run the setup script to create a virtual environment and install dependencies:
+
+```bash
+./setup_env.sh
+```
 
 ---
 
@@ -85,11 +98,4 @@ Streamlit, Tableau, Power BI, Grafana, IBM Cognos, Plotly
 **Cloud & DevOps:**  
 AWS (S3), Netlify, GitHub Actions, CI/CD, IBM Cloud
 
----
 
-## 🔁 Setup
-
-To run locally, clone the repo and use the environment setup script:
-
-```bash
-./setup_env.sh
