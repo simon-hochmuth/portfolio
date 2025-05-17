@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
-rel_path = '../data/nyc_311_complaints_cleaned.csv' # /src/scripts/NYC_311_API_Project/
+rel_path = 'data/nyc_311_complaints_cleaned.csv' # /src/scripts/NYC_311_API_Project/
 st.text(f"Looked for file at: {os.path.abspath(rel_path)}")
 # --- Load data ---
 @st.cache_data
