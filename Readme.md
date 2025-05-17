@@ -1,66 +1,95 @@
-Bio:
-I’m a data scientist and analytics engineer with a background in strategic consulting and technical delivery. Currently at LMI, I am building predictive models, streamlining financial reporting, and delivering data-driven insights that inform high-level decision-making.
+# Simon Hochmuth – Data Scientist & Analytics Engineer
 
-To start modify/run setup_env.sh.
+I'm a data scientist with a background in technical consulting, analytics engineering, and strategic decision-making. At LMI, I help senior leadership make informed decisions by building predictive models, automating financial reporting, and developing scalable data tools.
 
-Top projects with links:
+---
 
+📍 Visit my website: [simonhochmuth.com](https://simonhochmuth.com)  
+_(Built with Vue.js, deployed via Netlify)_
 
+---
 
+## 🚀 Featured Projects
 
-Website link: simonhochmuth.com
+These are showcased on my website under **Jupyter & Python Projects** and **Master's Reports**.
 
-🧠 Languages
+### 📓 Jupyter & Python-Based Projects
 
-    Python (pandas, scikit-learn, NumPy, TensorFlow, PyTorch, Matplotlib, Seaborn)
+- **[NYC 311 API & EDA](https://github.com/simon-hochmuth/portfolio/tree/master/src/scripts/NYC_311_API_Project/notebooks/311_eda.ipynb)**  
+  End-to-end pipeline for fetching, cleaning, and analyzing NYC 311 complaints.
 
-    SQL (PostgreSQL, MySQL, BigQuery)
+- **[NYC 311 Streamlit Dashboard](https://311nyccomplaints.streamlit.app/)**  
+  An interactive web app for exploring complaint data by hour, agency, and category.
 
-    R (ggplot2, dplyr, tidyverse)
+- **[Ship Detection in Satellite Images](https://github.com/simon-hochmuth/portfolio/blob/master/Notebooks/Deep_Learning_Ship_Dataset.ipynb)**  
+  Used convolutional neural networks (CNNs) for object detection in satellite imagery.
 
-    HTML/CSS/Vue/JS/NextJS/.NET/C# (basic/intermediate for portfolio/web apps)
+- **[Credit Card Clustering](https://github.com/simon-hochmuth/portfolio/blob/master/Notebooks/Credit_card_dataset.ipynb)**  
+  Applied unsupervised learning to segment and group customer behavior patterns.
 
-    C++  (basic/intermediate from aerospace/engineering background)
+- **[Wine Ranking Prediction](https://github.com/simon-hochmuth/portfolio/blob/master/Notebooks/Supervised_Learning_Wine.ipynb)**  
+  Built a supervised ML model to predict wine quality based on tasting attributes.
 
-    Bash/Shell (basic for scripting, automation)
+- **[SQL in Python](https://github.com/simon-hochmuth/portfolio/blob/master/Notebooks/SQL_in_Python.ipynb)**  
+  Data wrangling and transformation using SQL within Python notebooks.
 
-    
+- **[Global Military Spending](https://github.com/simon-hochmuth/portfolio/blob/master/Notebooks/Capstone_1_Military_Expenditure%20(2).ipynb)**  
+  Exploratory analysis on military budgets and global defense trends.
 
-🧰 Tools & Frameworks
+---
 
-    Jupyter Notebooks, VS Code, Colab
+### 🎓 Master’s Course Reports (PDFs)
 
-    Databricks, Apache Spark, Hadoop
+These projects were submitted as part of my M.S. in Data Science coursework.
 
-    Scikit-learn, XGBoost, LightGBM
+- **[Reinforcement Learning](https://github.com/simon-hochmuth/portfolio/blob/master/Master_Course_Project_Reports/Reinforcement_Learning.pdf)**  
+  Used Q-learning to find optimal navigation paths.
 
-    TensorFlow, Keras, PyTorch
+- **[Deep Learning with Fashion MNIST](https://github.com/simon-hochmuth/portfolio/blob/master/Master_Course_Project_Reports/Deep_Learning_MNIST_FASHION.pdf)**  
+  Trained neural networks for image classification.
 
-    Streamlit, Flask, MongoDB
+- **[Regression & Data Mining](https://github.com/simon-hochmuth/portfolio/blob/master/Master_Course_Project_Reports/Log_Regression_and_Data_Mining.pdf)**  
+  Applied regression techniques for predictive maintenance.
 
-    PostgreSQL, MySQL
+- **[SVM-Based Failure Prediction](https://github.com/simon-hochmuth/portfolio/blob/master/Master_Course_Project_Reports/SVM_Models.pdf)**  
+  Built SVM classifiers for device failure detection.
 
-📊 Analytics & Visualization
+- **[Decision Tree Models with Cognos](https://github.com/simon-hochmuth/portfolio/blob/master/Master_Course_Project_Reports/Decision_Tree_Models_with_Cognos.pdf)**  
+  Used Cognos to explore billionaire data trends with decision trees.
 
-    Tableau, Power BI, Streamlit
+- **[Neural Networks on Health Data](https://github.com/simon-hochmuth/portfolio/blob/master/Master_Course_Project_Reports/Neural_Networks.pdf)**  
+  Modeled diabetes diagnosis using a simple feedforward network.
 
-    Plotly, Grafana, Matplotlib,
+- **[K-Means Clustering on Soil Data](https://github.com/simon-hochmuth/portfolio/blob/master/Master_Course_Project_Reports/K-means%20Clustering.pdf)**  
+  Applied clustering to satellite-collected soil features.
 
-    IBM Cognos, IBM Watson, IBM Cloud
+- **[Ensemble Models for Customer Churn](https://github.com/simon-hochmuth/portfolio/blob/master/Master_Course_Project_Reports/Ensemble_Models.pdf)**  
+  Compared XGBoost, Random Forest, and Bagging for churn prediction.
 
-    Seaborn, Qlik
+---
 
-☁️ Cloud & DevOps
+## 🧠 Technical Stack
 
-    AWS (S3) , IBM Cloud, Oracle
+**Languages:**  
+Python, SQL, R, Bash, C++, HTML/CSS/JavaScript, Vue, .NET, C#
 
-    GitHub Actions, CI/CD basics
+**Data Science & ML:**  
+scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, Keras, pandas, NumPy, Matplotlib, Seaborn
 
-    Netlify (for personal site deployment)
+**Data Engineering:**  
+Databricks, Apache Spark, dbt, Airflow, JSON/XML APIs, ETL workflows
 
-📦 Data Engineering / Pipelines
+**Analytics & Visualization:**  
+Streamlit, Tableau, Power BI, Grafana, IBM Cognos, Plotly
 
-    ETL/ELT workflows using Python, SQL, and Spark
+**Cloud & DevOps:**  
+AWS (S3), Netlify, GitHub Actions, CI/CD, IBM Cloud
 
-    Databricks, dbt,  JSON/XML APIs
+---
 
+## 🔁 Setup
+
+To run locally, clone the repo and use the environment setup script:
+
+```bash
+./setup_env.sh

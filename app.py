@@ -9,10 +9,11 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
-
+rel_path = 'data/nyc_311_complaints_cleaned.csv' # /src/scripts/NYC_311_API_Project/
+st.text(f"Looked for file at: {os.path.abspath(rel_path)}")
 # --- Load data ---
 @st.cache_data
-def load_data(path=r"data/nyc_311_complaints_cleaned.csv"):
+def load_data(path=f"{rel_path}"):
     if not os.path.exists(path):
         st.error("CSV file not found. Please make sure the snapshot exists.")
         return pd.DataFrame()
@@ -20,6 +21,13 @@ def load_data(path=r"data/nyc_311_complaints_cleaned.csv"):
 
 df = load_data()
 st.title("📈 NYC 311 Complaint Explorer")
+st.write(
+    """
+    This interactive dashboard allows you to explore NYC 311 service complaints by agency and time of day.
+    Use the sidebar to view dataset details and filter by agency. The visualizations highlight complaint volume trends and service patterns.
+    You can also download both the filtered dataset and hourly summary for further analysis.
+    """
+)
 
 if df.empty:
     st.stop()
