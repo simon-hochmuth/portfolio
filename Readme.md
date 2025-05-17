@@ -22,11 +22,11 @@ I'm a data scientist with a background in technical consulting, analytics engine
 
 ## 🧠 Languages
 
-- **Python** – Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn
+- **Python** – Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn
 - **SQL** – PostgreSQL, MySQL, BigQuery
 - **R** – Tidyverse, ggplot2, dplyr
 - **HTML / CSS / JS / Vue / Next.js / .NET / C#** – for web + dashboard development
-- **C++** – from engineering and aerospace projects
+- **C++** – from engineering and aerospace projects (would need a refresher)
 - **Bash / Shell** – scripting and automation
 
 ---
