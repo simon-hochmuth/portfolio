@@ -21,6 +21,13 @@ def load_data(path=f"{rel_path}"):
 
 df = load_data()
 st.title("📈 NYC 311 Complaint Explorer")
+st.write(
+    """
+    This interactive dashboard allows you to explore NYC 311 service complaints by agency and time of day.
+    Use the sidebar to view dataset details and filter by agency. The visualizations highlight complaint volume trends and service patterns.
+    You can also download both the filtered dataset and hourly summary for further analysis.
+    """
+)
 
 if df.empty:
     st.stop()
