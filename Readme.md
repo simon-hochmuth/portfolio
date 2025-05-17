@@ -4,7 +4,7 @@ I'm a data scientist with a background in technical consulting, analytics engine
 
 ---
 
-📍 Visit my website: [simonhochmuth.com](https://simonhochmuth.com)
+📍 Visit my website: [simonhochmuth.com](https://simonhochmuth.com) → Vue.js frontend, deployed on Netlify
 
 ---
 
