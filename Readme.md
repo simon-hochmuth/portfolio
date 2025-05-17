@@ -16,7 +16,7 @@ These are showcased on my website under **Jupyter & Python Projects** and **Mast
 ### 📓 Jupyter & Python-Based Projects
 
 - **[NYC 311 API & EDA](https://github.com/simon-hochmuth/portfolio/tree/master/src/scripts/NYC_311_API_Project/notebooks/311_eda.ipynb)**  
-  End-to-end pipeline for fetching, cleaning, and analyzing NYC 311 complaints.
+  End-to-end pipeline for fetching, cleaning, and analyzing NYC 311 complaints. Locate clean_data.py and fetch_nyc_311.py for automated API/Cleaning.
 
 - **[NYC 311 Streamlit Dashboard](https://311nyccomplaints.streamlit.app/)**  
   An interactive web app for exploring complaint data by hour, agency, and category.
