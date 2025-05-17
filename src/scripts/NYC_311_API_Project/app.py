@@ -12,7 +12,7 @@ st.set_page_config(
 
 # --- Load data ---
 @st.cache_data
-def load_data(path=r".\src\scripts\NYC_311_API_Project\data\nyc_311_complaints_cleaned.csv"):
+def load_data(path=r"data/nyc_311_complaints_cleaned.csv"):
     if not os.path.exists(path):
         st.error("CSV file not found. Please make sure the snapshot exists.")
         return pd.DataFrame()
