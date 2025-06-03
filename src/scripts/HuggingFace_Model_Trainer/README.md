@@ -1,3 +1,7 @@
+# MODEL HOSTED HERE:
+https://huggingface.co/spaces/SimonHochmuth1/Bert_Sentiment_Model
+
+
 # Sentiment Classifier API with Hugging Face and FastAPI
 
 This project fine-tunes a `bert-base-uncased` model on the IMDb dataset using Hugging Face's `transformers` and serves predictions via a FastAPI web API.
